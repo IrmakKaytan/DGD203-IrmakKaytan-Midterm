@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Midterm_IrmakKaytan/1.0.0": {
+        "runtime": {
+          "Midterm_IrmakKaytan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midterm_IrmakKaytan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
